@@ -1,2 +1,2 @@
-# Catcannin
+# Catcanin
 Exercice 1
